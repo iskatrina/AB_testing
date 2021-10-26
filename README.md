@@ -7,4 +7,4 @@ Understanding AB test results of e-commerce website and helping to make a decisi
 - used few different methods: theoretical logic walkthrough, Statsmodels tools, Regression
 
 *datasets provided by Udacity
-*please feel free to contribute or ask any questions, will be happy to share :)
+<br>*please feel free to contribute or ask any questions, will be happy to share :)
